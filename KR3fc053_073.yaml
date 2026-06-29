@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc053/tls/v1/juan/73
+seq: 73
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 漢乾象術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc053.xml
+hash: sha256:8cc5a63637cf5698fdf5fbca8d35f1f26af3633a0770b6b65fd5333b45dbd9bf

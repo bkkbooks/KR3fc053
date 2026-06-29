@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc053/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七分行星三十二度六百四十一萬九百六十七分注曰行星以下十八字舊脫而夕見西方在日前順疾日行一度四分之一二十日行二十五度而順遲日行九分之八九日行行八度留不行二日旋逆一日退一度在日前夕伏西方逆遲九日退七度與日合凡再合一終一百一十五日六百一萬二千五百五分行星亦如之乾象術下畢甘泉老友江藩校
+  hash: sha256:7c316f2ff33a46804064add35af808d770e2ad3177717d07fc4d963de94191ee
+metadata:
+  title: 漢乾象術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc053.xml
+hash: sha256:36bc427cb843cef9f1976edb9f72dc072013cdc1f61e0e9382047a442d67fbdf

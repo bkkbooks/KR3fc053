@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc053/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以減之注曰陽厯在黃道外去極遠故加陰厯在黃道內去極近故減則月去極度強正弱負強弱相并同名相從異名相消其相減也同名相消異名相從無對互之二強進少而弱乾象術上畢
+  hash: sha256:34f18223148bcfc278e02bf17b2192b8db55f069184fec78a751d7f3eac749cd
+metadata:
+  title: 漢乾象術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc053.xml
+hash: sha256:41d99c57ad92a812805a68574762588bf2f0b94d0625113c45d5b69d738da1ca
