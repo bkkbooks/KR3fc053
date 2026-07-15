@@ -17,6 +17,7 @@ markers:
   - {type: 'tls:seg-start', offset: 82, content: '', id: KR3fc053_tls_001-p14.s4.2, seg_type: comm, member_ids: [KR3fc053_tls_001-p14.s4.2]}
   - {type: 'tls:seg', offset: 82, content: '', id: KR3fc053_tls_001-p14.s4.2}
   - {type: line-break, offset: 89, content: '', id: KR3fc053_tls_028-bkklb3}
+  - {type: substitution, offset: 93, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg-end', offset: 96, content: '', id: KR3fc053_tls_001-p14.s4.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 96, content: '', id: KR3fc053_tls_001-p14.s5}
   - {type: line-break, offset: 96, content: '', id: KX_5_dup14, _xml_error: duplicate-id, _xml_original_id: KX_5}
@@ -67,6 +68,7 @@ markers:
   - {type: 'tls:seg', offset: 282, content: '', id: KR3fc053_tls_001-p14.s16.4}
   - {type: 'tls:seg', offset: 283, content: '', id: KR3fc053_tls_001-p14.s17}
   - {type: line-break, offset: 283, content: '', id: KX_17_dup14, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: substitution, offset: 284, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 299, content: '', id: KR3fc053_tls_001-p14.s18}
   - {type: line-break, offset: 299, content: '', id: KX_18_dup14, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg-start', offset: 319, content: '', id: KR3fc053_tls_001-p14.s19.1, seg_type: comm, member_ids: [KR3fc053_tls_001-p14.s19.1]}
@@ -82,4 +84,4 @@ markers:
   - {type: 'tls:seg', offset: 372, content: '', id: KR3fc053_tls_001-p14.s21.2}
   - {type: line-break, offset: 390, content: '', id: KR3fc053_tls_028-bkklb12}
   back: []
-hash: sha256:54f3883f9f1760e795470f731d299b0f50d69badfe8babf9e43b1813ab333117
+hash: sha256:b9799cc3f33605376711b01b91cb164a6826a7f2cdcb0df3ad1c487928cfe4d5
